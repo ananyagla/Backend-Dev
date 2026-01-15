@@ -1,0 +1,20 @@
+1768374003459: / New Req received
+1768374214591: /about New Req received
+1768374319618: /contact New Req received
+1768374351618: /about New Req received
+1768374419895: / New Req received
+1768381445190: / { req.res.end} New Req received
+1768381625988: /:New Req received
+1768382570875|/favicon.ico|New Req received
+1768457189939| / | This is Home page
+1768457192841| /favicon.ico | 404 page Not Found
+1768457207729| / | This is Home page
+1768457208076| /favicon.ico | 404 page Not Found
+1768457229890| /contact | This is Contact page
+1768457230267| /favicon.ico | 404 page Not Found
+1768457270878| /about | This is About page
+1768457271158| /favicon.ico | 404 page Not Found
+1768457327029| /about | This is About page
+1768457327759| /favicon.ico | 404 page Not Found
+1768457390771| /about | This is About page
+1768457391479| /favicon.ico | 404 page Not Found
