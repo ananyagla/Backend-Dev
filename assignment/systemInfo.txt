@@ -1,0 +1,76 @@
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
+CPU Cores: 4
+Total Memory: 3638833152
+Platform: win32
+----------------------
