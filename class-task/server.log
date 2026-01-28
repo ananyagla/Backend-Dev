@@ -1,0 +1,10 @@
+INFO Server started successfully
+INFO User logged in
+WARNING Disk space is running low
+INFO Database connected
+ERROR Failed to connect to payment service
+INFO Request processed
+WARNING High memory usage detected
+INFO User logged out
+ERROR Timeout while fetching data
+INFO Server running
